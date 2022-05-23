@@ -1,0 +1,40 @@
+body
+{
+  font-family: 'Square Peg', cursive;
+  background: #E2E8DD;
+  font-size: 50px;
+}
+
+.header_div
+  {
+  background-color: black;
+  color: white; 
+  font-family: 'Square Peg', cursive;
+  font: size 50px; 
+  }
+
+  .header_div p{
+    font-family: 'Square Peg', cursive;
+    letter-spacing: 2px;
+    font-size: 50px;
+    font-weight: bold;
+    
+  }
+  .main_div button{
+    font-family: 'Square Peg', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 50px;
+  }
+
+  
+  .copy_right_footer {
+   color: black;
+   font-size: 50px;
+   background-color: #f5f5f5;
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px cyan;
+}
